@@ -4,7 +4,8 @@ A comprehensive data analysis project focused on understanding customer patterns
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overview <img width="909" height="508" alt="Customer behaviour analysis" src="https://github.com/user-attachments/assets/30381702-2995-4338-8268-43b320a8e05f" />
+
 This repository contains data processing scripts, analysis models, and workflow integrations designed to evaluate customer interaction and transaction logs.
 
 - **Goal:** Uncover insights into customer trends and churn risks.
